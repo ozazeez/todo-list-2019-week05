@@ -10,7 +10,19 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+body{
+  background-color: lightgray;
+}
 
+h1{
+  text-align: center;
+}
+button{
+  align-items: center;
+}
+#toDoSheet ul{
+  text-align: center;
+}
 
 
 /******************************************
